@@ -1,0 +1,11 @@
+include dash_react_editable_json_tree/dash_react_editable_json_tree.min.js
+include dash_react_editable_json_tree/dash_react_editable_json_tree.min.js.map
+include dash_react_editable_json_tree/async-*.js
+include dash_react_editable_json_tree/async-*.js.map
+include dash_react_editable_json_tree/*-shared.js
+include dash_react_editable_json_tree/*-shared.js.map
+include dash_react_editable_json_tree/metadata.json
+include dash_react_editable_json_tree/package-info.json
+include README.md
+include LICENSE
+include package.json
